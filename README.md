@@ -30,7 +30,7 @@ Junior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :telescope: I worked as a Mentor Assistance from Lighthouse Labs and, also learned to frontend and backend for build web applications.
 
-- :seedling: Exploring Search Engine Optimization, Social Media Optimization.
+- :seedling: Exploring Search Engine Optimization, Social Media Optimization, Digital Marketing.
 
 - :zap: In my free time, I am currently learning coding and solve the different problems. 
 
