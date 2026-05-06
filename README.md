@@ -28,11 +28,11 @@
 
 Junior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I worked as a Mentor Assistance from Lighthouse Labs and, also learned to frontend and backend for build web applications.
+- :telescope: I worked as a Mentor Assistant from Lighthouse Labs and also learned frontend and backend to build web applications.
 
 - :seedling: Exploring Search Engine Optimization, Social Media Optimization, Digital Marketing.
 
-- :zap: In my free time, I am currently learning coding and solve the different problems. 
+- :zap: In my free time, I am currently learning coding and solving different problems. 
 
 - :mailbox:How to reach me: ([https://www.linkedin.com/in/ruchika-gosain/])
 
